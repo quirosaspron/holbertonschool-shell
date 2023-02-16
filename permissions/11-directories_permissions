@@ -1,3 +1,2 @@
 #!/bin/bash
-# to get more info on how this command works go to the README file
 find . -type d -exec chmod 755 {} \;
